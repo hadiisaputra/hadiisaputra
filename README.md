@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Information+Systems+Student;Full-Stack+Web+Developer;Learn+Framework+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Information+Systems+Student;Full-Stack+Web+Developer;Learning+the+Next.js+Framework" alt="Typing SVG" />
 </p>
 
 ### Hi, I'm Hadi Saputra 👋
 
-Mahasiswa Sistem Informasi yang berfokus pada pengembangan web modern, sistem manajemen konten, dan otomasi alur kerja.
+Information Systems student focused on modern web development, content management systems, and workflow automation.
 
 🌐 [hadisaputra.dev](https://hadisaputra.dev) · 💻 [Repositories](https://github.com/hadiisaputra?tab=repositories)
 
@@ -27,16 +27,16 @@ Mahasiswa Sistem Informasi yang berfokus pada pengembangan web modern, sistem ma
 #### Selected Work
 
 <details>
-  <summary><b>Portal Berita UKPM Veritadz</b> — Next.js, Payload CMS, Supabase</summary>
-  <p>Pengembangan portal berita pers mahasiswa dengan alur kerja editorial (<i>Draft-to-Published</i>), kontrol akses berbasis peran (RBAC), dan manajemen media.</p>
+  <summary><b>UKPM Veritadz News Portal</b> — Next.js, Payload CMS, Supabase</summary>
+  <p>Built a student press news portal featuring an editorial workflow (<i>Draft-to-Published</i>), role-based access control (RBAC), and media management.</p>
 </details>
 
 <details>
-  <summary><b>Komunitas Coding Adzkia</b> — Inisiator & Mentor</summary>
-  <p>Sesi belajar mingguan terstruktur seputar pemrograman web dan pemanfaatan AI praktis bagi mahasiswa.</p>
+  <summary><b>Komunitas Coding Adzkia</b> — Founder & Mentor</summary>
+  <p>Organized structured weekly study sessions covering web programming and practical AI adoption for students.</p>
 </details>
 
 <details>
   <summary><b>Workflow Automation</b> — n8n</summary>
-  <p>Integrasi API dan otomasi proses berulang menggunakan instance n8n <i>self-hosted</i>.</p>
+  <p>Designed API integrations and repetitive process automation using a self-hosted n8n instance.</p>
 </details>
