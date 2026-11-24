@@ -30,13 +30,3 @@ Information Systems student focused on modern web development, content managemen
   <summary><b>UKPM Veritadz News Portal</b> — Next.js, Payload CMS, Supabase</summary>
   <p>Built a student press news portal featuring an editorial workflow (<i>Draft-to-Published</i>), role-based access control (RBAC), and media management.</p>
 </details>
-
-<details>
-  <summary><b>Komunitas Coding Adzkia</b> — Founder & Mentor</summary>
-  <p>Organized structured weekly study sessions covering web programming and practical AI adoption for students.</p>
-</details>
-
-<details>
-  <summary><b>Workflow Automation</b> — n8n</summary>
-  <p>Designed API integrations and repetitive process automation using a self-hosted n8n instance.</p>
-</details>
