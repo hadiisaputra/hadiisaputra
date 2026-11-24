@@ -27,6 +27,6 @@ Information Systems student focused on modern web development, content managemen
 #### Selected Work
 
 <details>
-  <summary><b>UKPM Veritadz News Portal</b> — Next.js, Payload CMS, Supabase</summary>
+  <summary><b>UKPM Veritadz News Portal</b> — Next.js, Payload CMS, Neon PostgreSQL</summary>
   <p>Built a student press news portal featuring an editorial workflow (<i>Draft-to-Published</i>), role-based access control (RBAC), and media management.</p>
 </details>
